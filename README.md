@@ -4,4 +4,4 @@ This website represents a transition of CNCS captone content to a web based rese
 ## Github Pages setup advice
 * Create your capstone repo with a readme
 * clone your repo locally
-* create a docs directory and commit
+* create a docs/index.md directory and file and commit
