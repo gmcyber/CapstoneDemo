@@ -5,3 +5,7 @@ This website represents a transition of CNCS captone content to a web based rese
 * Create your capstone repo with a readme
 * clone your repo locally
 * create a docs/index.md directory and file and commit
+* enable Github pages
+  * Select master/docs as a source
+  * Optionally select a custom domain if you own one (you will have some DNS work to do)
+  * Select a Jekyll thems
