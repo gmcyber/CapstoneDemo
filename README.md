@@ -14,3 +14,6 @@ This website represents a transition of CNCS captone content to a web based rese
 
 ## Github Wiki Option
 * This is pretty straight forward, you essentially just select the [Wiki Tab](https://github.com/gmcyber/CapstoneDemo/wiki) and author your content in any supported markup language as many of you have done in your tech-jounals for CNCS courses.
+
+## Project Management
+* Scheduling, Kanban boards, Issues and Progress can be tracked using the [Projects Tab](https://github.com/gmcyber/CapstoneDemo/projects)
