@@ -1,5 +1,5 @@
 # CapstoneDemo
-This website represents a transition of CNCS captone content to a web based research, development and integration portfolio.  It leverages either github pages or wiki functionaltiy to present a Capstone student's ongoing work to faculty, employers and peers.  Github pages is far more advanced and potentially more professional looking but required some time to learn, particularly if you are going to use Jekyll.  Here's the initial advice on github pages or Wiki setup.  This repo can be used for templates and examples on markup
+This website represents a transition of CNCS captone content to a web based research, development and integration portfolio.  It leverages either github pages or wiki functionaltiy to present a Capstone student's ongoing work to faculty, employers and peers.  Github pages is far more advanced and potentially more professional looking but requires some time to learn, particularly if you are going to use Jekyll.  Here's the initial advice on github pages or Wiki setup.  This repo can be used for templates and examples on markup
 
 ## Github Pages setup advice
 * Create your capstone repo with a readme
