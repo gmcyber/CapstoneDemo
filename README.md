@@ -10,7 +10,7 @@ This website represents a transition of CNCS captone content to a web based rese
   * Optionally select a custom domain if you own one (you will have some DNS work to do)
   * Select a Jekyll theme
 * You should now be able to go to your repo:  https://gmcyber.github.io/CapstoneDemo/
-* Start hitting the youtubes and github pages documentation for how best to install and use ruby and Jekyll for your preferred operating system.
+* Start hitting the youtubes and github pages documentation for how best to install and use ruby and [Jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) for your preferred operating system.
 
 ## Github Wiki Option
 * This is pretty straight forward, you essentially just select the [Wiki Tab](https://github.com/gmcyber/CapstoneDemo/wiki) and author your content in any supported markup language as many of you have done in your tech-jounals for CNCS courses.
