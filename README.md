@@ -18,4 +18,4 @@ This option holds far more potential and capabilites than the Wiki option.  With
 
 
 ## Project Management
-* Scheduling, Kanban boards, [Issues](https://github.com/gmcyber/CapstoneDemo/issues) and Progress can be tracked using the [Projects Tab](https://github.com/gmcyber/CapstoneDemo/projects)
+* Scheduling, Kanban boards, [Milestones](https://github.com/gmcyber/CapstoneDemo/milestones) and associated [Issues](https://github.com/gmcyber/CapstoneDemo/issues) and Progress can be tracked using the [Projects Tab](https://github.com/gmcyber/CapstoneDemo/projects)
