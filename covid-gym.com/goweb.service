@@ -1,0 +1,13 @@
+[Unit]
+Description=goweb
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5s
+ExecStart=/home/go/go-web/main
+#Devin Fix
+User=go
+
+[Install]
+WantedBy=multi-user.target
